@@ -1,0 +1,13 @@
+* {
+    background-color: blanchedalmond;
+}
+
+div {
+    padding: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-color: darkgoldenrod;
+    border-style: dotted;
+}
