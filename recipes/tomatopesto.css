@@ -10,4 +10,29 @@ div {
     margin-bottom: auto;
     border-color: darkgoldenrod;
     border-style: dotted;
+    background-color: lightcyan;
 }
+
+.text {
+    background-color: lightcyan;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+button {
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 320px;
+    margin-right: 320px;
+    text-align: center;
+    background-color: aqua;
+}
+
+button:hover {
+    background-color: #7fff00
+}
+
